@@ -381,8 +381,8 @@ function processMove(clickedBlock){
 
 function board_click(event) {
 
-    var x = event.clientX - canvas.offsetLeft;
-    var y = event.clientY - canvas.offsetTop;
+    var x = event.pageX - canvas.offsetLeft;
+    var y = event.pageY - canvas.offsetTop;
 
     var clickedBlock = {
         "row": Math.floor(y / BLOCK_SIZE),
