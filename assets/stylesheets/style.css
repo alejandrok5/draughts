@@ -1,0 +1,47 @@
+body {
+    background-color: #302C2C;
+    font-family: monospace;
+}
+
+ul {
+	text-align: left;
+}
+
+a:link {color:#fff;}
+a:visited {color:#fff;}  
+a:hover {color:#fff;}  
+
+.game{
+    text-align: center;
+}
+
+.intro {
+	color: #CCC;
+	width:700px;
+	margin:100px auto;
+	text-align:left;
+	padding:15px;
+	border:1px dashed #333;
+	background-color:#000;
+	text-align:center;
+}
+
+.label {
+	color: #FFF;
+	width: 285px;
+	margin: 100px -100px 0 50px;
+	float:left;
+	padding: 11px;
+	border: 1px dashed #333;
+	background-color: #00A859;
+	text-align: center;
+}
+.label p{
+	font-size: 38px;
+}
+.button{
+	font-size: 25px;
+}
+#turn{
+	color:#3E4095;
+}

@@ -1,0 +1,158 @@
+{
+    "playerOne": 
+    [
+        {
+            "piece": PIECE_BLUE,
+            "row": 0,
+            "col": 1,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_BLUE,
+            "row": 0,
+            "col": 3,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_BLUE,
+            "row": 0,
+            "col": 5,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_BLUE,
+            "row": 0,
+            "col": 7,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_BLUE,
+            "row": 1,
+            "col": 0,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_BLUE,
+            "row": 1,
+            "col": 2,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_BLUE,
+            "row": 1,
+            "col": 4,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_BLUE,
+            "row": 1,
+            "col": 6,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_BLUE,
+            "row": 1,
+            "col": 8,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_BLUE,
+            "row": 2,
+            "col": 1,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_BLUE,
+            "row": 2,
+            "col": 3,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_BLUE,
+            "row": 2,
+            "col": 5,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_BLUE,
+            "row": 2,
+            "col": 7,
+            "status": IN_PLAY
+        }                                          
+    ],
+    "playerTwo": 
+    [
+        {
+            "piece": PIECE_YELLOW,
+            "row": 7,
+            "col": 0,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_YELLOW,
+            "row": 7,
+            "col": 2,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_YELLOW,
+            "row": 7,
+            "col": 4,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_YELLOW,
+            "row": 7,
+            "col": 6,
+            "status": IN_PLAY
+        },                        
+        {
+            "piece": PIECE_YELLOW,
+            "row": 6,
+            "col": 1,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_YELLOW,
+            "row": 6,
+            "col": 3,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_YELLOW,
+            "row": 6,
+            "col": 5,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_YELLOW,
+            "row": 6,
+            "col": 7,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_YELLOW,
+            "row": 5,
+            "col": 0,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_YELLOW,
+            "row": 5,
+            "col": 2,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_YELLOW,
+            "row": 5,
+            "col": 4,
+            "status": IN_PLAY
+        },
+        {
+            "piece": PIECE_YELLOW,
+            "row": 5,
+            "col": 6,
+            "status": IN_PLAY
+        }
+    ]       
+}
